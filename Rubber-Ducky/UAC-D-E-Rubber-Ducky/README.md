@@ -52,3 +52,5 @@ Coming soon
 As you can see, we get an meterpreter shell that says it's running under user, however, if we drop into a CMD shell inside the meterpreter module, we can see we are running inside the system32 dir, indicating that we are running as admin, we can even use the getsystem script in the meterpreter module to gain NT System privliges, that's pretty sick.(Tested working on Win7,Win8 and Win10! 
 
 >>>>>>> origin/master
+
+[Link Github](https://github.com/Flangvik/UAC-D-E-Rubber-Ducky)
